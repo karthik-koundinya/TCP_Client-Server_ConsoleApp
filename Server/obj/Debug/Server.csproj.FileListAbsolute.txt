@@ -1,0 +1,5 @@
+C:\Users\KaayaTech\source\repos\ServerClientPractice\Server\bin\Debug\Server.exe
+C:\Users\KaayaTech\source\repos\ServerClientPractice\Server\bin\Debug\Server.pdb
+C:\Users\KaayaTech\source\repos\ServerClientPractice\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\KaayaTech\source\repos\ServerClientPractice\Server\obj\Debug\Server.exe
+C:\Users\KaayaTech\source\repos\ServerClientPractice\Server\obj\Debug\Server.pdb
